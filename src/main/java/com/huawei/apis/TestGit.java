@@ -5,5 +5,6 @@ public class TestGit {
         System.out.println("hello Git");
         System.out.println("hello Git conflict");
         System.out.println("hot-fix");
+        System.out.println("push commit");
     }
 }
