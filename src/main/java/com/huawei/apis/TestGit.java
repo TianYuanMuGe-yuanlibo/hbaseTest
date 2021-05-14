@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("hot-fix");
         System.out.println("push commit");
         System.out.println("pull");
+        System.out.println("Gitee commit");
     }
 }
