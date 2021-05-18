@@ -9,5 +9,6 @@ public class TestGit {
         System.out.println("pull");
         System.out.println("Gitee commit");
         System.out.println("Gitee pull");
+        System.out.println("haha");
     }
 }
